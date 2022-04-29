@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Sedatrusen
-- 👀 I’m interested in frontend
-- 🌱 I’m currently learning computer eng.
+
 
 - 📫 How to reach me sedatrusen25771@gmail.com
 
